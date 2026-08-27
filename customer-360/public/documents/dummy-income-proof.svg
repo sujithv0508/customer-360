@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <rect x="1" y="1" width="398" height="518" rx="10" fill="#FFFFFF" stroke="#D7E6DE" stroke-width="1.5"/>
+
+  <rect x="1" y="1" width="398" height="58" rx="10" fill="#175C40"/>
+  <rect x="1" y="45" width="398" height="14" fill="#175C40"/>
+  <text x="28" y="30" font-family="Arial, sans-serif" font-size="15" font-weight="800" fill="#FFFFFF">DEMO CORP PVT LTD</text>
+  <text x="28" y="47" font-family="Arial, sans-serif" font-size="9.5" fill="#DCEEE4">Payslip · June 2026</text>
+
+  <g font-family="Arial, sans-serif" fill="#1B2A22">
+    <text x="28" y="92" font-size="9" font-weight="700" letter-spacing="0.5" fill="#5C6E64">EMPLOYEE NAME</text>
+    <text x="28" y="108" font-size="13.5" font-weight="700">John A. Sample</text>
+
+    <text x="230" y="92" font-size="9" font-weight="700" letter-spacing="0.5" fill="#5C6E64">EMPLOYEE ID</text>
+    <text x="230" y="108" font-size="13.5" font-weight="700">EMP-10492</text>
+
+    <text x="28" y="132" font-size="9" font-weight="700" letter-spacing="0.5" fill="#5C6E64">DESIGNATION</text>
+    <text x="28" y="148" font-size="12.5" font-weight="600">Consultant</text>
+
+    <text x="230" y="132" font-size="9" font-weight="700" letter-spacing="0.5" fill="#5C6E64">PAY PERIOD</text>
+    <text x="230" y="148" font-size="12.5" font-weight="600">01 Jun - 30 Jun 2026</text>
+  </g>
+
+  <rect x="28" y="168" width="344" height="1" fill="#E3ECE7"/>
+
+  <g font-family="Arial, sans-serif">
+    <text x="28" y="192" font-size="10" font-weight="700" fill="#5C6E64">EARNINGS</text>
+    <text x="300" y="192" font-size="10" font-weight="700" fill="#5C6E64" text-anchor="end">AMOUNT</text>
+
+    <text x="28" y="216" font-size="12" fill="#1B2A22">Basic Salary</text>
+    <text x="300" y="216" font-size="12" fill="#1B2A22" text-anchor="end">6,000.00</text>
+
+    <text x="28" y="240" font-size="12" fill="#1B2A22">House Rent Allowance</text>
+    <text x="300" y="240" font-size="12" fill="#1B2A22" text-anchor="end">1,800.00</text>
+
+    <text x="28" y="264" font-size="12" fill="#1B2A22">Other Allowances</text>
+    <text x="300" y="264" font-size="12" fill="#1B2A22" text-anchor="end">533.33</text>
+
+    <text x="28" y="288" font-size="10" font-weight="700" fill="#5C6E64">DEDUCTIONS</text>
+    <text x="300" y="288" font-size="10" font-weight="700" fill="#5C6E64" text-anchor="end">AMOUNT</text>
+
+    <text x="28" y="310" font-size="12" fill="#1B2A22">Tax &amp; Statutory</text>
+    <text x="300" y="310" font-size="12" fill="#1B2A22" text-anchor="end">-833.33</text>
+
+    <rect x="28" y="328" width="344" height="1" fill="#E3ECE7"/>
+
+    <text x="28" y="354" font-size="14" font-weight="800" fill="#1B2A22">Net Pay</text>
+    <text x="300" y="354" font-size="14" font-weight="800" fill="#175C40" text-anchor="end">7,500.00</text>
+  </g>
+
+  <line x1="240" y1="410" x2="372" y2="410" stroke="#8FA098" stroke-width="1"/>
+  <text x="240" y="426" font-family="Arial, sans-serif" font-size="9" fill="#5C6E64">Authorized Signatory</text>
+
+  <text x="372" y="490" text-anchor="end" font-family="Arial, sans-serif" font-size="8" font-weight="700" fill="#7C8B82">SPECIMEN DOCUMENT</text>
+  <text x="28" y="490" font-family="Arial, sans-serif" font-size="8" fill="#9AA8A0">This is a fictional specimen payslip for demonstration purposes only.</text>
+
+  <g opacity="0.12">
+    <text x="60" y="300" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#1B2A22" transform="rotate(-30 200 260)">SPECIMEN</text>
+  </g>
+</svg>

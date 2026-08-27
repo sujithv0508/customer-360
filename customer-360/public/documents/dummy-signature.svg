@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 180" width="420" height="180">
+  <rect x="1" y="1" width="418" height="178" rx="10" fill="#FFFFFF"/>
+  <path
+    d="M28 118
+       C 40 82, 54 82, 62 108
+       C 68 128, 76 128, 82 100
+       C 87 78, 92 78, 96 102
+       C 99 118, 104 118, 108 96
+       C 112 76, 118 70, 126 90
+       C 133 108, 140 112, 146 92
+       C 151 76, 156 70, 160 86
+       C 163 98, 170 100, 178 82
+       C 186 62, 196 60, 202 84
+       C 207 104, 214 108, 222 84
+       C 229 64, 238 58, 246 80
+       C 252 96, 260 98, 268 74
+       C 275 54, 284 50, 292 72
+       C 297 86, 300 92, 308 78
+       C 316 64, 326 60, 336 76
+       C 344 88, 352 90, 362 74
+       C 368 64, 374 62, 382 68"
+    fill="none" stroke="#16324A" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"
+  />
+  <path
+    d="M96 128 C 140 140, 220 142, 300 132 C 330 128, 355 130, 372 122"
+    fill="none" stroke="#16324A" stroke-width="1.6" stroke-linecap="round" opacity="0.55"
+  />
+  <line x1="26" y1="150" x2="392" y2="150" stroke="#C7D2CE" stroke-width="1"/>
+  <text x="26" y="166" font-family="Arial, sans-serif" font-size="10" fill="#8FA098">Authorized Signatory · Specimen for demonstration purposes only</text>
+</svg>

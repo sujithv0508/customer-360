@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <rect x="1" y="1" width="398" height="518" rx="10" fill="#FFFFFF" stroke="#D7E6DE" stroke-width="1.5"/>
+
+  <rect x="1" y="1" width="398" height="64" rx="10" fill="#1F8259"/>
+  <rect x="1" y="45" width="398" height="20" fill="#1F8259"/>
+  <circle cx="34" cy="33" r="14" fill="#FFFFFF" opacity="0.92"/>
+  <path d="M34 24l7 4v8c0 5-3.2 8-7 10-3.8-2-7-5-7-10v-8Z" fill="#175C40"/>
+  <text x="58" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="800" fill="#FFFFFF">DEMO UTILITIES CO.</text>
+  <text x="58" y="46" font-family="Arial, sans-serif" font-size="9" fill="#DCEEE4">Electricity &amp; Water Services · Statement of Account</text>
+
+  <g font-family="Arial, sans-serif" fill="#1B2A22">
+    <text x="28" y="98" font-size="9" font-weight="700" letter-spacing="0.5" fill="#5C6E64">ACCOUNT HOLDER</text>
+    <text x="28" y="114" font-size="14" font-weight="700">John A. Sample</text>
+
+    <text x="230" y="98" font-size="9" font-weight="700" letter-spacing="0.5" fill="#5C6E64">ACCOUNT NUMBER</text>
+    <text x="230" y="114" font-size="14" font-weight="700">UTL-8842-3391</text>
+
+    <text x="28" y="140" font-size="9" font-weight="700" letter-spacing="0.5" fill="#5C6E64">SERVICE ADDRESS</text>
+    <text x="28" y="156" font-size="12.5" font-weight="600">12 Sample Lane, Mayflower Marvel,</text>
+    <text x="28" y="172" font-size="12.5" font-weight="600">Demo City, DC 9384-3839</text>
+
+    <text x="230" y="140" font-size="9" font-weight="700" letter-spacing="0.5" fill="#5C6E64">BILLING PERIOD</text>
+    <text x="230" y="156" font-size="12.5" font-weight="600">01 Jun 2026 - 30 Jun 2026</text>
+  </g>
+
+  <rect x="28" y="196" width="344" height="1" fill="#E3ECE7"/>
+
+  <g font-family="Arial, sans-serif">
+    <text x="28" y="220" font-size="9" font-weight="700" letter-spacing="0.5" fill="#5C6E64">DESCRIPTION</text>
+    <text x="300" y="220" font-size="9" font-weight="700" letter-spacing="0.5" fill="#5C6E64" text-anchor="end">AMOUNT</text>
+
+    <text x="28" y="246" font-size="12" fill="#1B2A22">Electricity Usage Charge</text>
+    <text x="300" y="246" font-size="12" fill="#1B2A22" text-anchor="end">42.30</text>
+
+    <text x="28" y="270" font-size="12" fill="#1B2A22">Water &amp; Sewage Charge</text>
+    <text x="300" y="270" font-size="12" fill="#1B2A22" text-anchor="end">18.90</text>
+
+    <text x="28" y="294" font-size="12" fill="#1B2A22">Service Fee</text>
+    <text x="300" y="294" font-size="12" fill="#1B2A22" text-anchor="end">4.50</text>
+
+    <rect x="28" y="310" width="344" height="1" fill="#E3ECE7"/>
+
+    <text x="28" y="335" font-size="13" font-weight="800" fill="#1B2A22">Total Due</text>
+    <text x="300" y="335" font-size="13" font-weight="800" fill="#175C40" text-anchor="end">65.70</text>
+  </g>
+
+  <g transform="translate(28,368)">
+    <rect x="0" y="0" width="2" height="34" fill="#2A3A31"/>
+    <rect x="4" y="0" width="1" height="34" fill="#2A3A31"/>
+    <rect x="7" y="0" width="3" height="34" fill="#2A3A31"/>
+    <rect x="12" y="0" width="1" height="34" fill="#2A3A31"/>
+    <rect x="15" y="0" width="4" height="34" fill="#2A3A31"/>
+    <rect x="21" y="0" width="1" height="34" fill="#2A3A31"/>
+    <rect x="24" y="0" width="2" height="34" fill="#2A3A31"/>
+    <rect x="28" y="0" width="1" height="34" fill="#2A3A31"/>
+    <rect x="31" y="0" width="3" height="34" fill="#2A3A31"/>
+    <rect x="36" y="0" width="1" height="34" fill="#2A3A31"/>
+    <rect x="39" y="0" width="2" height="34" fill="#2A3A31"/>
+    <rect x="43" y="0" width="1" height="34" fill="#2A3A31"/>
+    <rect x="46" y="0" width="4" height="34" fill="#2A3A31"/>
+    <rect x="52" y="0" width="1" height="34" fill="#2A3A31"/>
+    <rect x="55" y="0" width="2" height="34" fill="#2A3A31"/>
+    <rect x="59" y="0" width="1" height="34" fill="#2A3A31"/>
+    <rect x="62" y="0" width="3" height="34" fill="#2A3A31"/>
+  </g>
+
+  <text x="372" y="490" text-anchor="end" font-family="Arial, sans-serif" font-size="8" font-weight="700" fill="#7C8B82">SPECIMEN DOCUMENT</text>
+  <text x="28" y="490" font-family="Arial, sans-serif" font-size="8" fill="#9AA8A0">This is a fictional specimen bill for demonstration purposes only.</text>
+
+  <g opacity="0.12">
+    <text x="60" y="300" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#1B2A22" transform="rotate(-30 200 260)">SPECIMEN</text>
+  </g>
+</svg>
