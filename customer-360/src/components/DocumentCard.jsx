@@ -13,15 +13,23 @@ export function isExpired(expiryDate) {
   return new Date(year, month - 1, day) < new Date();
 }
 
+const CARD_TONE_BY_TYPE = {
+  ID: 'docCard-blue',
+  'Address Proof': 'docCard-green',
+  'Income Proof': 'docCard-lavender',
+  'Bank Statement': 'docCard-amber',
+};
+
 export default function DocumentCard({ doc, onOpen }) {
   const meta = STATUS_META[doc.status] || STATUS_META.Verified;
   const StatusIcon = meta.icon;
   const isPdf = doc.fileType === 'pdf';
   const expired = isExpired(doc.expiryDate);
+  const toneClass = CARD_TONE_BY_TYPE[doc.type] || 'docCard-neutral';
 
   return (
     <motion.div
-      className="docCard"
+      className={`docCard ${toneClass}`}
       initial={{ opacity: 0, y: 10 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.25, ease: 'easeOut' }}
